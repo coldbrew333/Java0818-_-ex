@@ -4,6 +4,8 @@ public class Ex4 {
 
 	public static void main(String[] args) {
 		
+		//달팽이
+		
 		int[][]snail = new int[5][5];
 		
 		int k = 1;//1~25
