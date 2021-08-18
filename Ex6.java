@@ -7,7 +7,7 @@ public class Ex6 {
 	public static void main(String[] args) {
 		
 		
-		new Ex7();
+		new Ex7();//생성자 불러오기
 		
 		
 		
